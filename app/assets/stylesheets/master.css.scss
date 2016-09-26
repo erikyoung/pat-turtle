@@ -34,16 +34,20 @@
   font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
   font-style: italic;
   padding-top: 26px;
+  font-size: 25px;
 }
 
 .links a {
   padding-top: 26px;
-  margin-top: 10px;
   color: black;
-  font-size: 25px;
+  font-size: 20px;
   border-bottom: 1px solid #dfdfdf;
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: bold;
+}
+
+.img-responsive {
+  float: left;
 }
 
 
@@ -92,6 +96,10 @@ h2 {
 
   ::selection {
   background-color: #f84342;
+}
+
+p {
+  font-size: 25px;
 }
 
 @media (max-width: 750px) {
