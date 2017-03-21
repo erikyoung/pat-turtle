@@ -1,4 +1,8 @@
 == README
 
+<<<<<<< HEAD
 "Pizza is Awesome"
 -Marco
+=======
+Pizza is Awesome. Seriously.
+>>>>>>> change-readme
